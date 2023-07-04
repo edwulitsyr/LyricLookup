@@ -8,12 +8,14 @@ import androidx.appcompat.widget.Toolbar;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
 
+/**
+ * Activity for the main screen of the application that is shown upon initial application launch.
+ */
 public class MainActivity extends AppCompatActivity {
 
     // var used to pass Genius API song info between activities

@@ -22,6 +22,9 @@ import android.widget.TextView;
 import java.io.InputStream;
 import java.net.URL;
 
+/**
+ * Activity for the screen containing information about the selected song, which includes the lyrics.
+ */
 public class SongInfoActivity extends AppCompatActivity {
 
     // The song the info is being shown for

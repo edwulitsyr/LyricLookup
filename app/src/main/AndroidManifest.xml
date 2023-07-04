@@ -3,7 +3,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.example.project2">
     <!-- Request permission to access audio files in phone -->
-    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" /> <!-- Request permission to use internet to search for userStorageSong lyrics -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <!-- Request permission to use internet to search for userStorageSong lyrics -->
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
