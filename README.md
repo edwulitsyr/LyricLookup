@@ -1,6 +1,6 @@
 # LyricLookup
 
-#Description
+## Description
 The "LyricLookup" application is an Android app that utilizes the Genius API to look up lyrics for songs found in the user's phone storage. 
 The Genius API is hosted by the popular "Genius" service that provides lyrics and other song information for a wide variety of songs. 
 In order to integrate with it, this app uses "rapidapi". The rapidapi documentation can be found here: https://rapidapi.com/Glavier/api/genius-song-lyrics1/
