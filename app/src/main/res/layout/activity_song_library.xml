@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SongLibraryActivity">
+
+    <TextView
+        android:id="@+id/select_song_text_text"
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:background="@color/pink"
+        android:gravity="center"
+        android:text="Select a Song from Your\nSong Library"
+        android:textColor="@color/white"
+        android:textSize="30dp"/>
+
+    <ListView
+        android:id="@+id/song_library_listview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="90dp"/>
+
+</RelativeLayout>

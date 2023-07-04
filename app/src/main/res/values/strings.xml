@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Song Lyric Finder</string>
+    <string name="app_titlebar_text">Song Lyric Finder</string>
+    <string name="welcome_text">Welcome to the\n Song Lyric Finder</string>
+    <string name="select_song_text">Select a Song From your Libary</string>
+    <string name="info_text">Click for Info</string>
+    <string name="how_to_use_title_text">How to use the Song Lyric Finder</string>
+    <string name="how_to_use_body_text">This app looks up information about any song in your phone\'s song library.\n\nClick on the button to select a song and get lyrics and information about it.</string>
+    <string name="could_not_find_title_text">Could Not Find Song</string>
+    <string name="could_not_find_body_text">Could not find the selected song. Please try selecting a different song.</string>
+    <string name="permission_not_granted_title_text">Permission Not Granted</string>
+    <string name="permission_not_granted_body_text">Required permission to read external storage was not granted. Cannot use this feature.</string>
+    <string name="go_back_text">Go Back to Title Screen</string>
+    <string name="song_info_title_text">Info about Song</string>
+    <string name="song_info_body_text">This page shows the following information:\n\n\tSong Title\n\tSong Artist\n\tAlbum Name\n\tRelease Date\n\n\tLyrics\n\nInformation is from genius.com</string>
+    <string name="ok_text">OK</string>
+</resources>
