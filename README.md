@@ -11,6 +11,9 @@ In order to integrate with it, this app uses "rapidapi". The rapidapi documentat
 - Upon selecting a song, the song is searched for in the Genius API. If the song is found, a new screen is shown that contains the song's lyrics. In addition to the lyrics, information about the song such as artist and release date is provided. An image of the album cover that the song is part of is also displayed.
 - If a song that is selected by the user is not found in the Genius API, a popup is shown that informs the user that the lyrics could not be found.
 
+## Note if pulling the code
+- In order to use this code, the placeholder "X-RapidAPI-Key" request property in the SongInfoFinderTask.java file MUST BE REPLACED WITH AN ACUTAL API KEY. An API key is provided by Rapid API. Please follow the instructions on Rapid API to generate one.
+
 ## Required Permissions
 The LyricLookup application requires the following permissions for the following reasons.
 1. READ_EXTERNAL_STORAGE - Required for obtaining songs found in the user's device
